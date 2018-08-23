@@ -26,4 +26,4 @@ Scripts are under `/assets/scripts`.
 
 - Images minified (over 10kb): `assets/images/` use `npm run build`.
 - Sass compiled and css minified: `assets/css/`
-- Js ec6 compiled minified: `assets/js/`
+- Js compiled and minified: `assets/js/`
